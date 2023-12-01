@@ -1,6 +1,6 @@
 /* this is very important yes?? */
 body, .post__title, h1, h2, h3, h4, h5, h6, html {
-  background-color: #1e1e20;
+  background-color: #1e1e20 !important;
   color: #fff !important;
 }
 
