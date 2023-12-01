@@ -1,9 +1,3 @@
-/* this is very important yes?? */
-body, .post__title, h1, h2, h3, h4, h5, h6, html {
-  background-color: #1e1e20 !important;
-  color: #fff !important;
-}
-
 .none {
     display: none !important;
 }
@@ -874,4 +868,10 @@ pre .lineno {
 
 .mc-form__button:focus {
     outline: 0
+}
+
+/* this is very important yes?? */
+body, .post__title, h1, h2, h3, h4, h5, h6, html {
+  background-color: #1e1e20 !important;
+  color: #fff !important;
 }
